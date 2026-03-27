@@ -1,0 +1,14 @@
+a800a2b (HEAD -> test) Añade funcionalidad B en develop
+482f2b1 (main) HOTFIX: corrige error crítico en login
+6f61573 Crea versión 1.0 de la app
+24068da (origin/main, origin/HEAD) add deadline
+8c0fb31 Initial commit
+
+
+Funcionalidad A: en desarrollo
+Funcionalidad B: en desarrollo
+HOTFIX: corrige error crítico en login
+
+
+git merge para ramas enteras
+git cherry-pick para commits concretos
