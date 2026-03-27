@@ -1,0 +1,9 @@
+git log --oneline
+cat app.txt
+482f2b1 (HEAD -> main) HOTFIX: corrige error crítico en login
+6f61573 Crea versión 1.0 de la app
+24068da (origin/main, origin/HEAD) add deadline
+8c0fb31 Initial commit
+Funcionalidad A: en desarrollo
+Funcionalidad B: en desarrollo
+HOTFIX: corrige error crítico en login

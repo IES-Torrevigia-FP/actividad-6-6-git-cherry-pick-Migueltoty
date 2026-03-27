@@ -1,0 +1,6 @@
+3d5eef7 (HEAD -> develop) HOTFIX: corrige error crítico en login
+6f02220 Añade funcionalidad B en develop
+1e8e13f Añade funcionalidad A en develop
+6f61573 (main) Crea versión 1.0 de la app
+24068da (origin/main, origin/HEAD) add deadline
+8c0fb31 Initial commit
