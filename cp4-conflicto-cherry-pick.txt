@@ -1,0 +1,11 @@
+En la rama main
+Tu rama está adelantada a 'origin/main' por 2 commits.
+  (usa "git push" para publicar tus commits locales)
+
+Estás realizando un cherry-picking en el commit 6f61573.
+  (todos los conflictos corregidos: ejecuta "git cherry-pick --continue")
+  (usa "git cherry-pick --skip" para saltar este parche)
+  (usa "git cherry-pick --abort" para cancelar la operación cherry-pick)
+
+## DESCRIPCIÓN
+Eliminé los marcadores, lo guardé, y hize git cherry-pick --continue 
